@@ -11,7 +11,6 @@ Coach AI is an **AI-powered virtual fitness assistant** that leverages **compute
 - **Smart Rest Timer**: Suggests rest periods (e.g., 30s after 10 push-ups/squats).  
 - **Motivational Coaching**: Gives audio + text-based encouragement during workouts.  
 - **Personalized Dashboard**: 30-day **workout and diet recommendations**.
-- 
 ---
 
 ## 🛠️ Tech Stack  
